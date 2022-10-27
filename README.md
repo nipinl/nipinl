@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nipinl
 - 👀 I’m interested in Openfoam, C++, CFD, android programming etc..
-- 🌱 I’m currently learning OpenFOAM programming
+- 🌱 I’m currently learning and implementing Lattice Boltzmann Methods
 
 - 📫 How to reach me: web ->  www.nipinl.com, email -> nipinl@gmail.com
 
